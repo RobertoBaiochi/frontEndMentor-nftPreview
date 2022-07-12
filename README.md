@@ -40,8 +40,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### What I learned
 
-156 / 5.000
-Resultados de tradução
 I had more experience with the card image in ":hover" using "opacity" and it was also a good practice to use responsiveness without media queries.
 
 ### Continued development
