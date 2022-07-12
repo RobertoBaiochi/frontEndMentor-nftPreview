@@ -20,14 +20,14 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![](./overview-desktop.png)
+![](./desktop.png)
 
-![](./overview-mobile.png)
+![](./mobile.png)
 
 
 ### Links
 
-- Live Url : 
+- Live Url : https://robertobaiochi.github.io/frontEndMentor-nftPreview/
 
 ## My process
 
